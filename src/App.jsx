@@ -6,7 +6,7 @@ import Home from "./pages/Home.jsx";
 import About from "./pages/About.jsx";
 import BlogDetails from "./pages/Blogdetails.jsx";
 import Contact from "./pages/Contact.tsx";
-import Codingtips from "./pages/Codingtips.jsx";
+import Codingtips from "./pages/codingtips.jsx";
 import Tips from "./pages/tips.jsx";
 import Tutorials from "./pages/tuto.jsx";
 import Blogs from "./pages/blogs.jsx";
